@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜ ${BotName} ⚜
+	return `⚜ ${Cepoetzybot} ⚜
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -10,14 +10,14 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
-🔱 *INSTAGRAM*: ${instagram}
-🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *AUTHOR*: Divaldywijaya 
+🔱 *GITHUB*: https://github.com/difaldywijaya/cepoetzybot-
+🔱 *INSTAGRAM*: ${cepoetznieeh}
+🔱 *BOT DIBUAT*: ${Sab,23,Des}
+🔱 *Facebook* : ${telegram}
+🔱 *WHATSAPP* : +62 822-4612-3503
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
+🔱 *SCRIPT ORIGINAL BY*: https://github.com/Divaldywijaya 
 
 INFO LAIN! :
 
@@ -25,15 +25,14 @@ BOT INI MENGGUNAKAN SOURCE CODE YANG SAYA DAPATKAN DAN SAYA MODIFIKASI DENGAN PE
 BOT INI DIBUAT MENGGUNAKAN NODE.JS
 
 THANKS TO: 
--ALLAH SWT
--MUHAMMAD SAW
--AYAH & IBU
--ABDUL MUTTAQIN(FDCIABDUL)
+-ALLAH SWT🤲
+-MUHAMMAD SAW🤲
+-AYAH & IBU🤲
+-ABDUL MUTTAQIN(FDCIABDUL🤲)
 
-
-bot aktif selama : ${kapanbotaktif}
+bot aktif selama : ${selaluaktif24jam}
 JANGAN LUPA FOLLOW instagram
- ${instagram}
+ ${cepoetznieeh}
 
- 👾TELEGRAM : ${telegram}`
+ 👾Bot: ${salamsehatselalu}`
 }
