@@ -1,4 +1,4 @@
-## REUZSC
+##created by divaldywijaya
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -8,7 +8,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 ## CARA INSTALL
-# TERMUX
+# FOR TERMUX
 ```bash
 > download termux
 > buka
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/difaldywijaya/cepoetzybot-
+> cd cepoetzybot-
 > bash install.sh
 > node index.js
 ```
